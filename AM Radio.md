@@ -10,7 +10,7 @@
 | KKYX | 680 AM | San Antonio, TX | 22.8 mi. | 🌞 |
 | KSEV | 700 AM | Tomball, TX | 183 mi. | 🌙 |
 | KEEL | 710 AM | Shreveport, LA | 357.7 mi. | 🌙 |
-| KSAH | 720 AM | Amarillo, TX | 455.3 mi. | 🌞 |
+| KSAH | 720 AM | Universal City, TX | 22.3 mi. | 🌞 |
 | KTRH | 740 AM | Houston, TX | 217.1 mi. | 🌙 |
 | KTKR | 760 AM | San Antonio, TX | 12.6 mi. | 🌞 |
 | KYTY | 810 AM | Somerset, TX | 3.3 mi. | 🌞 |
