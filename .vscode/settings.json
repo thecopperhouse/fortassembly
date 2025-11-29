@@ -1,0 +1,17 @@
+{
+  // Editor
+  "editor.matchBrackets": "never",
+  "editor.fontFamily": "Noto Sans Mono",
+  
+  // Workbench
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.productIconTheme": "material-product-icons",
+  
+  // Files
+  "files.autoSave": "afterDelay",
+
+  // Extensions
+  "errorLens.gutterIconsEnabled": true,
+  "errorLens.statusBarColorsEnabled": true
+}
